@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web/app development or software development
-- 📫 How to reach me vyxzncode@gmail.com
+- 📫 Reach me through LinkedIn or through email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I had 10 cats (at once) for a short period of time
 
