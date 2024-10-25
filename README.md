@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vyxzn. I also go by Chris
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web/app development or software development
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on software development
 - 📫 Reach me through LinkedIn or through email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I had 10 cats (at once) for a short period of time
